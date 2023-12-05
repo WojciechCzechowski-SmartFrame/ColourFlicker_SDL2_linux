@@ -1,3 +1,8 @@
+# What is this about?
+This repository contains sources of a program demonstrating issues of non-uniform frame pacing, through colour flickering.
+
+---
+
 # Build instructions
 
 1. Open terminal in directory, where you want to place the project and clone the repository with:
